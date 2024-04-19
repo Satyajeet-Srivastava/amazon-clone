@@ -186,7 +186,7 @@ span{
 
 .box-img{
   height: 300px; 
-  background-size: contain;
+  background-size: cover;
   margin-top: 1rem;
   margin-bottom: 1rem;
 
